@@ -1,4 +1,3 @@
-Comune Provincia CAP
 Abano-Terme PD 35031
 Abbadia-Cerreto LO 26834
 Abbadia-Lariana LC 23821
@@ -60,7 +59,7 @@ Aggius OT 07020
 Agira EN 94011
 Agliana PT 51031
 Agliano-Terme AT 14041
-AgliË TO 10011
+Agli√® TO 10011
 Aglientu OT 07020
 Agna PD 35021
 Agnadello CR 26020
@@ -92,7 +91,7 @@ Airole IM 18030
 Airuno LC 23881
 Aisone CN 12010
 Ala TN 38061
-Al‡-dei-Sardi OT 07020
+Al√†-dei-Sardi OT 07020
 Ala-di-Stura TO 10070
 Alagna PV 27020
 Alagna-Valsesia VC 13021
@@ -154,8 +153,8 @@ Alfiano-Natta AL 15021
 Alfonsine RA 48011
 Alghero SS 07041
 Algua BG 24010
-AlÏ ME 98020
-AlÏ-Terme ME 98021
+Al√¨ ME 98020
+Al√¨-Terme ME 98021
 Alia PA 90021
 Aliano MT 75010
 Alice-Bel-Colle AL 15010
@@ -170,8 +169,8 @@ Allein AO 11010
 Allerona TR 05011
 Alliste LE 73040
 Allumiere RM 00051
-Alluvioni-CambiÚ AL 15040
-AlmË BG 24011
+Alluvioni-Cambi√≤ AL 15040
+Alm√® BG 24011
 Almenno-San-Bartolomeo BG 24030
 Almenno-San-Salvatore BG 24031
 Almese TO 10040
@@ -250,7 +249,7 @@ Annone-Veneto VE 30020
 Anoia RC 89020
 Antegnate BG 24051
 Anterivo BZ 39040
-Antey-Saint-AndrË AO 11020
+Antey-Saint-Andr√® AO 11020
 Anticoli-Corrado RM 00022
 Antignano AT 14010
 Antillo ME 98030
@@ -346,14 +345,14 @@ Arosio CO 22060
 Arpaia BN 82011
 Arpaise BN 82010
 Arpino FR 03033
-Arqu‡-Petrarca PD 35032
-Arqu‡-Polesine RO 45031
+Arqu√†-Petrarca PD 35032
+Arqu√†-Polesine RO 45031
 Arquata-del-Tronto AP 63096
 Arquata-Scrivia AL 15061
 Arre PD 35020
 Arrone TR 05031
 Arsago-Seprio VA 21010
-ArsiË BL 32030
+Arsi√® BL 32030
 Arsiero VI 36011
 Arsita TE 64031
 Arsoli RM 00023
@@ -549,16 +548,16 @@ Barrea AQ 67030
 Barumini VS 09021
 Barzago LC 23890
 Barzana BG 24030
-BarzanÚ LC 23891
+Barzan√≤ LC 23891
 Barzio LC 23816
 Basaluzzo AL 15060
-BascapË PV 27010
+Bascap√® PV 27010
 Baschi TR 05023
 Basciano TE 64030
-Baselga-di-PinË TN 38042
+Baselga-di-Pin√® TN 38042
 Baselice BN 82020
 Basiano MI 20060
-BasicÚ ME 98060
+Basic√≤ ME 98060
 Basiglio MI 20080
 Basiliano UD 33031
 Bassano-Bresciano BS 25020
@@ -567,7 +566,7 @@ Bassano-in-Teverina VT 01030
 Bassano-Romano VT 01030
 Bassiano LT 04010
 Bassignana AL 15042
-Bastia-MondovÏ CN 12060
+Bastia-Mondov√¨ CN 12060
 Bastia-Umbra PG 06083
 Bastida-de'-Dossi PV 27050
 Bastida-Pancarana PV 27050
@@ -623,7 +622,7 @@ Belvedere-Langhe CN 12060
 Belvedere-Marittimo CS 87021
 Belvedere-Ostrense AN 60030
 Belveglio AT 14040
-BelvÏ NU 08030
+Belv√¨ NU 08030
 Bema SO 23010
 Bene-Lario CO 22010
 Bene-Vagienna CN 12041
@@ -679,7 +678,7 @@ Bianco RC 89032
 Biandrate NO 28061
 Biandronno VA 21024
 Bianzano BG 24060
-BianzË VC 13041
+Bianz√® VC 13041
 Bianzone SO 23030
 Biassono MB 20853
 Bibbiano RE 42021
@@ -688,7 +687,7 @@ Bibbona LI 57020
 Bibiana TO 10060
 Biccari FG 71032
 Bicinicco UD 33050
-BidonÏ OR 09080
+Bidon√¨ OR 09080
 Biella BI 13900
 Bienno BS 25040
 Bieno TN 38050
@@ -971,7 +970,7 @@ Bucciano BN 82010
 Buccinasco MI 20090
 Buccino SA 84021
 Bucine AR 52021
-BuddusÚ OT 07020
+Buddus√≤ OT 07020
 Budoia PN 33070
 Budoni OT 08020
 Budrio BO 40054
@@ -1041,7 +1040,7 @@ Caglio CO 22030
 Cagnano-Amiterno AQ 67012
 Cagnano-Varano FG 71010
 Cagno CO 22070
-CagnÚ TN 38028
+Cagn√≤ TN 38028
 Caianello CE 81059
 Caiazzo CE 81013
 Caines BZ 39010
@@ -1235,7 +1234,7 @@ Canelli AT 14053
 Canepina VT 01030
 Caneva PN 33070
 Canevino PV 27040
-CanicattÏ AG 92024
+Canicatt√¨ AG 92024
 Canicattini-Bagni SR 96010
 Canino VT 01011
 Canischio TO 10080
@@ -1266,7 +1265,7 @@ Cantello VA 21050
 Canterano RM 00020
 Cantiano PU 61044
 Cantoira TO 10070
-Cant˘ CO 22063
+Cant√π CO 22063
 Canzano TE 64020
 Canzo CO 22035
 Caorle VE 30021
@@ -1358,7 +1357,7 @@ Carcare SV 17043
 Carceri PD 35040
 Carcoforo VC 13026
 Cardano-al-Campo VA 21010
-CardË CN 12030
+Card√® CN 12030
 Cardedu OG 08040
 Cardeto RC 89060
 Cardinale CZ 88062
@@ -1420,12 +1419,12 @@ Carpineto-Sinello CH 66030
 Carpino FG 71010
 Carpinone IS 86093
 Carrara MS 54033
-CarrË VI 36010
+Carr√® VI 36010
 Carrega-Ligure AL 15060
 Carro SP 19012
 Carrodano SP 19020
 Carrosio AL 15060
-Carr˘ CN 12061
+Carr√π CN 12061
 Carsoli AQ 67061
 Cartigliano VI 36050
 Cartignano CN 12020
@@ -1620,7 +1619,7 @@ Castel-Rozzone BG 24040
 Castel-San-Giorgio SA 84083
 Castel-San-Giovanni PC 29015
 Castel-San-Lorenzo SA 84049
-Castel-San-NiccolÚ AR 52018
+Castel-San-Niccol√≤ AR 52018
 Castel-San-Pietro-Romano RM 00030
 Castel-San-Pietro-Terme BO 40024
 Castel-San-Vincenzo IS 86071
@@ -1840,7 +1839,7 @@ Cautano BN 82030
 Cava-de'-Tirreni SA 84013
 Cava-Manara PV 27051
 Cavacurta LO 26844
-Cavagli‡ BI 13881
+Cavagli√† BI 13881
 Cavaglietto NO 28010
 Cavaglio-d'Agogna NO 28010
 Cavaglio-Spoccia VB 28825
@@ -1882,8 +1881,8 @@ Cecima PV 27050
 Cecina LI 57023
 Cedegolo BS 25051
 Cedrasco SO 23010
-Cefal‡-Diana PA 90030
-Cefal˘ PA 90015
+Cefal√†-Diana PA 90030
+Cefal√π PA 90015
 Ceggia VE 30022
 Ceglie-Messapica BR 72013
 Celano AQ 67043
@@ -1915,7 +1914,7 @@ Cencenighe-Agordino BL 32020
 Cene BG 24020
 Ceneselli RO 45030
 Cengio SV 17056
-Centa-San-NicolÚ TN 38040
+Centa-San-Nicol√≤ TN 38040
 Centallo CN 12044
 Cento FE 44042
 Centola SA 84051
@@ -2006,7 +2005,7 @@ Cesana-Torinese TO 10054
 Cesano-Boscone MI 20090
 Cesano-Maderno MB 20811
 Cesara VB 28891
-CesarÚ ME 98033
+Cesar√≤ ME 98033
 Cesate MI 20020
 Cesena FC 4752x
 Cesenatico FC 47042
@@ -2093,14 +2092,14 @@ Ciciliano RM 00020
 Cicognolo CR 26030
 Ciconio TO 10080
 Cigliano VC 13043
-CigliË CN 12060
+Cigli√® CN 12060
 Cigognola PV 27040
 Cigole BS 25020
 Cilavegna PV 27024
 Cimadolmo TV 31010
 Cimbergo BS 25050
 Cimego TN 38082
-Cimin‡ RC 89040
+Cimin√† RC 89040
 Ciminna PA 90023
 Cimitile NA 80030
 Cimolais PN 33080
@@ -2122,11 +2121,11 @@ Cinzano TO 10090
 Ciorlano CE 81010
 Cipressa IM 18017
 Circello BN 82020
-CiriË TO 10073
+Ciri√® TO 10073
 Cirigliano MT 75010
 Cirimido CO 22070
-CirÚ KR 88813
-CirÚ-Marina KR 88811
+Cir√≤ KR 88813
+Cir√≤-Marina KR 88811
 Cis TN 38020
 Cisano-Bergamasco BG 24034
 Cisano-sul-Neva SV 17035
@@ -2140,9 +2139,9 @@ Cisterna-d'Asti AT 14010
 Cisterna-di-Latina LT 04012
 Cisternino BR 72014
 Citerna PG 06010
-Citt‡-della-Pieve PG 06062
-Citt‡-di-Castello PG 06012
-Citt‡-Sant'Angelo PE 65013
+Citt√†-della-Pieve PG 06062
+Citt√†-di-Castello PG 06012
+Citt√†-Sant'Angelo PE 65013
 Cittadella PD 35013
 Cittaducale RI 02015
 Cittanova RC 89022
@@ -2196,7 +2195,7 @@ Cocullo AQ 67030
 Codevigo PD 35020
 Codevilla PV 27050
 Codigoro FE 44021
-CodognË TV 31013
+Codogn√® TV 31013
 Codogno LO 26845
 Codroipo UD 33033
 Codrongianos SS 07040
@@ -2299,7 +2298,7 @@ Concorezzo MB 20863
 Condino TN 38083
 Condofuri RC 89030
 Condove TO 10055
-CondrÚ ME 98040
+Condr√≤ ME 98040
 Conegliano TV 31015
 Confienza PV 27030
 Configni RI 02040
@@ -2487,7 +2486,7 @@ Cunardo VA 21035
 Cuneo CN 12100
 Cunevo TN 38010
 Cunico AT 14026
-CuorgnË TO 10082
+Cuorgn√® TO 10082
 Cupello CH 66051
 Cupra-Marittima AP 63064
 Cupramontana AN 60034
@@ -2521,9 +2520,9 @@ Dalmine BG 24044
 Dambel TN 38010
 Danta-di-Cadore BL 32040
 Daone TN 38080
-DarË TN 38080
+Dar√® TN 38080
 Darfo-Boario-Terme BS 25047
-Das‡ VV 89832
+Das√† VV 89832
 Davagna GE 16022
 Daverio VA 21020
 Davoli CZ 88060
@@ -2564,11 +2563,11 @@ Diso LE 73030
 Divignano NO 28010
 Dizzasco CO 22020
 Dobbiaco BZ 39034
-DoberdÚ-del-Lago GO 34070
+Doberd√≤-del-Lago GO 34070
 Dogliani CN 12063
 Dogliola CH 66050
 Dogna UD 33010
-DolcË VR 37020
+Dolc√® VR 37020
 Dolceacqua IM 18035
 Dolcedo IM 18020
 Dolegna-del-Collio GO 34070
@@ -2630,7 +2629,7 @@ Elini OG 08040
 Ello LC 23848
 Elmas CA 09030
 Elva CN 12020
-EmarËse AO 11020
+Emar√®se AO 11020
 Empoli FI 50053
 Endine-Gaiano BG 24060
 Enego VI 36052
@@ -2642,7 +2641,7 @@ Envie CN 12030
 Episcopia PZ 85033
 Eraclea VE 30020
 Erba CO 22036
-ErbË VR 37060
+Erb√® VR 37060
 Erbezzo VR 37020
 Erbusco BS 25030
 Erchie BR 72020
@@ -2732,9 +2731,9 @@ Felitto SA 84055
 Felizzano AL 15023
 Felonica MN 46022
 Feltre BL 32032
-FenegrÚ CO 22070
+Fenegr√≤ CO 22070
 Fenestrelle TO 10060
-FÈnis AO 11020
+F√©nis AO 11020
 Ferentillo TR 05034
 Ferentino FR 03013
 Ferla SR 96010
@@ -2756,13 +2755,13 @@ Fiamignano RI 02023
 Fiano TO 10070
 Fiano-Romano RM 00065
 Fiastra MC 62035
-FiavË TN 38075
+Fiav√® TN 38075
 Ficarazzi PA 90010
 Ficarolo RO 45036
 Ficarra ME 98062
 Ficulle TR 05016
 Fidenza PR 43036
-FiË-allo-Sciliar BZ 39050
+Fi√®-allo-Sciliar BZ 39050
 Fiera-di-Primiero TN 38054
 Fierozzo TN 38050
 Fiesco CR 26010
@@ -2868,8 +2867,8 @@ Foresto-Sparso BG 24060
 Forgaria-nel-Friuli UD 33030
 Forino AV 83020
 Forio NA 80075
-ForlÏ FC 4712x
-ForlÏ-del-Sannio IS 86084
+Forl√¨ FC 4712x
+Forl√¨-del-Sannio IS 86084
 Forlimpopoli FC 47034
 Formazza VB 28863
 Formello RM 00060
@@ -2891,7 +2890,7 @@ Fornovo-San-Giovanni BG 24040
 Forte-dei-Marmi LU 55042
 Fortezza BZ 39045
 Fortunago PV 27040
-Forza-d'AgrÚ ME 98030
+Forza-d'Agr√≤ ME 98030
 Fosciandora LU 55020
 Fosdinovo MS 54035
 Fossa AQ 67020
@@ -2902,7 +2901,7 @@ Fossalto CB 86020
 Fossano CN 12045
 Fossato-di-Vico PG 06022
 Fossato-Serralta CZ 88050
-FossÚ VE 30030
+Foss√≤ VE 30030
 Fossombrone PU 61034
 Foza VI 36010
 Frabosa-Soprana CN 12082
@@ -2942,7 +2941,7 @@ Fratta-Todina PG 06054
 Frattamaggiore NA 80027
 Frattaminore NA 80020
 Fratte-Rosa PU 61040
-FrazzanÚ ME 98070
+Frazzan√≤ ME 98070
 Fregona TV 31010
 Fresagrandinaria CH 66050
 Fresonara AL 15064
@@ -3018,7 +3017,7 @@ Gallipoli LE 73014
 Gallo-Matese CE 81010
 Gallodoro ME 98030
 Galluccio CE 81044
-GaltellÏ NU 08020
+Galtell√¨ NU 08020
 Galzignano-Terme PD 35030
 Gamalero AL 15010
 Gambara BS 25020
@@ -3029,7 +3028,7 @@ Gambatesa CB 86013
 Gambellara VI 36053
 Gamberale CH 66040
 Gambettola FC 47035
-GambolÚ PV 27025
+Gambol√≤ PV 27025
 Gambugliano VI 36050
 Gandellino BG 24020
 Gandino BG 24024
@@ -3184,7 +3183,7 @@ Goni CA 09040
 Gonnesa CI 09010
 Gonnoscodina OR 09090
 Gonnosfanadiga VS 09035
-GonnosnÚ OR 09090
+Gonnosn√≤ OR 09090
 Gonnostramatza OR 09093
 Gonzaga MN 46023
 Gordona SO 23020
@@ -3247,7 +3246,7 @@ Greci AV 83030
 Greggio VC 13030
 Gremiasco AL 15056
 Gressan AO 11020
-Gressoney-la-TrinitË AO 11020
+Gressoney-la-Trinit√® AO 11020
 Gressoney-Saint-Jean AO 11025
 Greve-in-Chianti FI 50022
 Grezzago MI 20056
@@ -3298,7 +3297,7 @@ Gualdo MC 62020
 Gualdo-Cattaneo PG 06035
 Gualdo-Tadino PG 06023
 Gualtieri RE 42044
-Gualtieri-SicaminÚ ME 98040
+Gualtieri-Sicamin√≤ ME 98040
 Guamaggiore CA 09040
 Guanzate CO 22070
 Guarcino FR 03016
@@ -3626,7 +3625,7 @@ Loceri OG 08040
 Locorotondo BA 70010
 Locri RC 89044
 Loculi NU 08020
-LodË NU 08020
+Lod√® NU 08020
 Lodi LO 26900
 Lodi-Vecchio LO 26855
 Lodine NU 08020
@@ -3655,7 +3654,7 @@ Longobucco CS 87066
 Longone-al-Segrino CO 22030
 Longone-Sabino RI 02020
 Lonigo VI 36045
-LoranzË TO 10010
+Loranz√® TO 10010
 Loreggia PD 35010
 Loreglia VB 28893
 Lorenzago-di-Cadore BL 32040
@@ -3715,7 +3714,7 @@ Lusernetta TO 10060
 Lusevera UD 33010
 Lusia RO 45020
 Lusiana VI 36046
-LusigliË TO 10080
+Lusigli√® TO 10080
 Luson BZ 39040
 Lustra SA 84050
 Luvinate VA 21020
@@ -3765,10 +3764,10 @@ Magnago MI 20020
 Magnano BI 13887
 Magnano-in-Riviera UD 33010
 Magomadas OR 08010
-MagrË-sulla-Strada-del-Vino BZ 39040
+Magr√®-sulla-Strada-del-Vino BZ 39040
 Magreglio CO 22030
 Maida CZ 88025
-Maier‡ CS 87020
+Maier√† CS 87020
 Maierato VV 89843
 Maiolati-Spontini AN 60030
 Maiolo RN 47862
@@ -3781,7 +3780,7 @@ Malagnino CR 26030
 Malalbergo BO 40051
 Malborghetto-Valbruna UD 33010
 Malcesine VR 37018
-MalË TN 38027
+Mal√® TN 38027
 Malegno BS 25053
 Maleo LO 26847
 Malesco VB 28854
@@ -3819,7 +3818,7 @@ Maniace CT 95030
 Maniago PN 33085
 Manocalzati AV 83030
 Manoppello PE 65024
-MansuË TV 31040
+Mansu√® TV 31040
 Manta CN 12030
 Mantello SO 23016
 Mantova MN 46100
@@ -3918,7 +3917,7 @@ Maschito PZ 85020
 Masciago-Primo VA 21030
 Maser TV 31010
 Masera VB 28855
-Maser‡-di-Padova PD 35020
+Maser√†-di-Padova PD 35020
 Maserada-sul-Piave TV 31052
 Masi PD 35040
 Masi-Torello FE 44020
@@ -3960,9 +3959,9 @@ Mazara-del-Vallo TP 91026
 Mazzano BS 25080
 Mazzano-Romano RM 00060
 Mazzarino CL 93013
-Mazzarr‡-Sant'Andrea ME 98056
+Mazzarr√†-Sant'Andrea ME 98056
 Mazzarrone CT 95040
-MazzË TO 10035
+Mazz√® TO 10035
 Mazzin TN 38030
 Mazzo-di-Valtellina SO 23030
 Meana-di-Susa TO 10050
@@ -3990,7 +3989,7 @@ Melegnano MI 20077
 Melendugno LE 73026
 Meleti LO 26843
 Melfi PZ 85025
-Melicucc‡ RC 89020
+Melicucc√† RC 89020
 Melicucco RC 89020
 Melilli SR 96010
 Melissa KR 88814
@@ -4025,7 +4024,7 @@ Mercogliano AV 83013
 Mereto-di-Tomba UD 33036
 Mergo AN 60030
 Mergozzo VB 28802
-MerÏ ME 98040
+Mer√¨ ME 98040
 Merlara PD 35040
 Merlino LO 26833
 Merone CO 22046
@@ -4180,7 +4179,7 @@ Moncucco-Torinese AT 14024
 Mondaino RN 47836
 Mondavio PU 61040
 Mondolfo PU 61037
-MondovÏ CN 12084
+Mondov√¨ CN 12084
 Mondragone CE 81034
 Moneglia GE 16030
 Monesiglio CN 12077
@@ -4209,7 +4208,7 @@ Monsano AN 60030
 Monselice PD 35043
 Monserrato CA 09042
 Monsummano-Terme PT 51015
-Mont‡ CN 12046
+Mont√† CN 12046
 Montabone AT 14040
 Montacuto AL 15050
 Montafia AT 14014
@@ -4226,7 +4225,7 @@ Montalbano-Jonico MT 75023
 Montalcino SI 53024
 Montaldeo AL 15060
 Montaldo-Bormida AL 15010
-Montaldo-di-MondovÏ CN 12080
+Montaldo-di-Mondov√¨ CN 12080
 Montaldo-Roero CN 12040
 Montaldo-Scarampi AT 14048
 Montaldo-Torinese TO 10020
@@ -4466,7 +4465,7 @@ Montoro-Superiore AV 83026
 Montorso-Vicentino VI 36050
 Montottone FM 63843
 Montresta OR 08010
-Mont˘-Beccaria PV 27040
+Mont√π-Beccaria PV 27040
 Monvalle VA 21020
 Monza MB 20900
 Monzambano MN 46040
@@ -4546,7 +4545,7 @@ Mozzecane VR 37060
 Mozzo BG 24030
 Muccia MC 62034
 Muggia TS 34015
-MuggiÚ MB 20835
+Muggi√≤ MB 20835
 Mugnano-del-Cardinale AV 83027
 Mugnano-di-Napoli NA 80018
 Mulazzano LO 26837
@@ -4576,7 +4575,7 @@ Nanto VI 36024
 Napoli NA 801xx
 Narbolia OR 09070
 Narcao CI 09010
-NardÚ LE 73048
+Nard√≤ LE 73048
 Nardodipace VV 89824
 Narni TR 05035
 Naro AG 92028
@@ -4642,7 +4641,7 @@ Nogara VR 37054
 Nogaredo TN 38060
 Nogarole-Rocca VR 37060
 Nogarole-Vicentino VI 36070
-Noic‡ttaro BA 70016
+Noic√†ttaro BA 70016
 Nola NA 80035
 Nole TO 10076
 Noli SV 17026
@@ -4682,7 +4681,7 @@ Novi-Velia SA 84060
 Noviglio MI 20082
 Novoli LE 73051
 Nucetto CN 12070
-Nughedu-San-NicolÚ SS 07010
+Nughedu-San-Nicol√≤ SS 07010
 Nughedu-Santa-Vittoria OR 09080
 Nule SS 07010
 Nulvi SS 07032
@@ -4753,7 +4752,7 @@ Olzai NU 08020
 Ome BS 25050
 Omegna VB 28887
 Omignano SA 84060
-OnanÏ NU 08020
+Onan√¨ NU 08020
 Onano VT 01010
 Oncino CN 12030
 Oneta BG 24020
@@ -4952,14 +4951,14 @@ Palombara-Sabina RM 00018
 Palombaro CH 66010
 Palomonte SA 84020
 Palosco BG 24050
-Pal˘ VR 37050
-Pal˘-del-Fersina TN 38050
+Pal√π VR 37050
+Pal√π-del-Fersina TN 38050
 Paludi CS 87060
 Paluzza UD 33026
 Pamparato CN 12087
 Pancalieri TO 10060
 Pancarana PV 27050
-Panchi‡ TN 38030
+Panchi√† TN 38030
 Pandino CR 26025
 Panettieri CS 87050
 Panicale PG 06064
@@ -4975,7 +4974,7 @@ Parabiago MI 20015
 Parabita LE 73052
 Paratico BS 25030
 Parcines BZ 39020
-ParË CO 22020
+Par√® CO 22020
 Parella TO 10010
 Parenti CS 87040
 Parete CE 81030
@@ -5005,13 +5004,13 @@ Pastrengo VR 37010
 Pasturana AL 15060
 Pasturo LC 23818
 Paterno PZ 85050
-PaternÚ CT 95047
+Patern√≤ CT 95047
 Paterno-Calabro CS 87040
 Paternopoli AV 83052
 Patrica FR 03010
 Pattada SS 07016
 Patti ME 98066
-Pat˘ LE 73053
+Pat√π LE 73053
 Pau OR 09090
 Paularo UD 33027
 Pauli-Arbarei VS 09020
@@ -5126,7 +5125,7 @@ Petriano PU 61020
 Petriolo MC 62014
 Petritoli FM 63848
 Petrizzi CZ 88060
-Petron‡ CZ 88050
+Petron√† CZ 88050
 Petrosino TP 91020
 Petruro-Irpino AV 83010
 Pettenasco NO 28028
@@ -5268,7 +5267,7 @@ Piombino LI 57025
 Piombino-Dese PD 35017
 Pioraco MC 62025
 Piossasco TO 10045
-Piov‡-Massaia AT 14026
+Piov√†-Massaia AT 14026
 Piove-di-Sacco PD 35028
 Piovene-Rocchette VI 36013
 Piovera AL 15040
@@ -5299,7 +5298,7 @@ Pizzoni VV 89834
 Placanica RC 89040
 Plataci CS 87070
 Platania CZ 88040
-PlatÏ RC 89039
+Plat√¨ RC 89039
 Plaus BZ 39025
 Plesio CO 22010
 Ploaghe SS 07017
@@ -5394,7 +5393,7 @@ Ponte-Lambro CO 22037
 Ponte-nelle-Alpi BL 32014
 Ponte-Nizza PV 27050
 Ponte-Nossa BG 24028
-Ponte-San-NicolÚ PD 35020
+Ponte-San-Nicol√≤ PD 35020
 Ponte-San-Pietro BG 24036
 Pontebba UD 33016
 Pontecagnano-Faiano SA 84098
@@ -5456,7 +5455,7 @@ Porto-Tolle RO 45018
 Porto-Torres SS 07046
 Porto-Valtravaglia VA 21010
 Porto-Viro RO 45014
-PortobuffolË TV 31040
+Portobuffol√® TV 31040
 Portocannone CB 86045
 Portoferraio LI 57037
 Portofino GE 16034
@@ -5541,7 +5540,7 @@ Predore BG 24060
 Predosa AL 15077
 Preganziol TV 31022
 Pregnana-Milanese MI 20010
-Prel‡ IM 18020
+Prel√† IM 18020
 Premana LC 23834
 Premariacco UD 33040
 Premeno VB 28818
@@ -5552,7 +5551,7 @@ Premosello-Chiovenda VB 28803
 Preone UD 33020
 Preore TN 38070
 Prepotto UD 33040
-PrË-Saint-Didier AO 11010
+Pr√®-Saint-Didier AO 11010
 Preseglie BS 25070
 Presenzano CE 81050
 Presezzo BG 24030
@@ -5700,7 +5699,7 @@ Revello CN 12036
 Revere MN 46036
 Revigliasco-d'Asti AT 14010
 Revine-Lago TV 31020
-RevÚ TN 38028
+Rev√≤ TN 38028
 Rezzago CO 22030
 Rezzato BS 25086
 Rezzo IM 18026
@@ -5718,7 +5717,7 @@ Ricadi VV 89866
 Ricaldone AL 15010
 Riccia CB 86016
 Riccione RN 47838
-RiccÚ-del-Golfo-di-Spezia SP 19020
+Ricc√≤-del-Golfo-di-Spezia SP 19020
 Ricengo CR 26010
 Ricigliano SA 84020
 Riese-Pio-X TV 31039
@@ -5804,7 +5803,7 @@ Robilante CN 12017
 Roburent CN 12080
 Rocca-Canavese TO 10070
 Rocca-Canterano RM 00020
-Rocca-CigliË CN 12060
+Rocca-Cigli√® CN 12060
 Rocca-d'Arazzo AT 14030
 Rocca-d'Arce FR 03030
 Rocca-de'-Baldi CN 12047
@@ -5839,7 +5838,7 @@ Roccafiorita ME 98030
 Roccafluvione AP 63093
 Roccaforte-del-Greco RC 89060
 Roccaforte-Ligure AL 15060
-Roccaforte-MondovÏ CN 12088
+Roccaforte-Mondov√¨ CN 12088
 Roccaforzata TA 74020
 Roccafranca BS 25030
 Roccagiovine RM 00020
@@ -5890,9 +5889,9 @@ Rodengo BZ 39037
 Rodengo-Saiano BS 25050
 Rodero CO 22070
 Rodi-Garganico FG 71012
-RodÏ-Milici ME 98059
+Rod√¨-Milici ME 98059
 Rodigo MN 46040
-RoË-Volciano BS 25077
+Ro√®-Volciano BS 25077
 Rofrano SA 84070
 Rogeno LC 23849
 Roggiano-Gravina CS 87017
@@ -5922,7 +5921,7 @@ Romeno TN 38010
 Romentino NO 28068
 Rometta ME 98043
 Ronago CO 22027
-Ronc‡ VR 37030
+Ronc√† VR 37030
 Roncade TV 31056
 Roncadelle BS 25030
 Roncaro PV 27010
@@ -5948,8 +5947,8 @@ Ronsecco VC 13036
 Ronzo-Chienis TN 38060
 Ronzone TN 38010
 Roppolo BI 13883
-Ror‡ TO 10060
-Ros‡ VI 36027
+Ror√† TO 10060
+Ros√† VI 36027
 Rosarno RC 89025
 Rosasco PV 27030
 Rosate MI 20088
@@ -5990,9 +5989,9 @@ Rovellasca CO 22069
 Rovello-Porro CO 22070
 Roverbella MN 46048
 Roverchiara VR 37050
-RoverË-della-Luna TN 38030
-RoverË-Veronese VR 37028
-Roveredo-di-Gu‡ VR 37040
+Rover√®-della-Luna TN 38030
+Rover√®-Veronese VR 37028
+Roveredo-di-Gu√† VR 37040
 Roveredo-in-Piano PN 33080
 Rovereto TN 38068
 Rovescala PV 27040
@@ -6010,7 +6009,7 @@ Rudiano BS 25030
 Rueglio TO 10010
 Ruffano LE 73049
 Ruffia CN 12030
-RuffrË-Mendola TN 38010
+Ruffr√®-Mendola TN 38010
 Rufina FI 50068
 Ruinas OR 09085
 Ruino PV 27040
@@ -6041,7 +6040,7 @@ Saint-Marcel AO 11020
 Saint-Nicolas AO 11010
 Saint-Oyen AO 11014
 Saint-Pierre AO 11010
-Saint-RhÈmy-en-Bosses AO 11010
+Saint-Rh√©my-en-Bosses AO 11010
 Saint-Vincent AO 11027
 Sala-Baganza PR 43038
 Sala-Biellese BI 13884
@@ -6075,7 +6074,7 @@ Salisano RI 02040
 Salizzole VR 37056
 Salle PE 65020
 Salmour CN 12040
-SalÚ BS 25087
+Sal√≤ BS 25087
 Salorno BZ 39040
 Salsomaggiore-Terme PR 43039
 Saltara PU 61030
@@ -6162,7 +6161,7 @@ San-Daniele-Po CR 26046
 San-Demetrio-Corone CS 87069
 San-Demetrio-ne'-Vestini AQ 67028
 San-Didero TO 10050
-San-Don‡-di-Piave VE 30027
+San-Don√†-di-Piave VE 30027
 San-Donaci BR 72025
 San-Donato-di-Lecce LE 73010
 San-Donato-di-Ninea CS 87010
@@ -6329,7 +6328,7 @@ San-Michele-al-Tagliamento VE 30028
 San-Michele-all'Adige TN 38010
 San-Michele-di-Ganzaria CT 95040
 San-Michele-di-Serino AV 83020
-San-Michele-MondovÏ CN 12080
+San-Michele-Mondov√¨ CN 12080
 San-Michele-Salentino BR 72018
 San-Miniato PI 56028
 San-Nazario VI 36020
@@ -6343,9 +6342,9 @@ San-Nicola-da-Crissa VV 89821
 San-Nicola-dell'Alto KR 88817
 San-Nicola-la-Strada CE 81020
 San-Nicola-Manfredi BN 82010
-San-NicolÚ-d'Arcidano OR 09097
-San-NicolÚ-di-Comelico BL 32040
-San-NicolÚ-Gerrei CA 09040
+San-Nicol√≤-d'Arcidano OR 09097
+San-Nicol√≤-di-Comelico BL 32040
+San-Nicol√≤-Gerrei CA 09040
 San-Pancrazio BZ 39010
 San-Pancrazio-Salentino BR 72026
 San-Paolo BS 25020
@@ -6368,7 +6367,7 @@ San-Pietro-Apostolo CZ 88040
 San-Pietro-Avellana IS 86088
 San-Pietro-Clarenza CT 95030
 San-Pietro-di-Cadore BL 32040
-San-Pietro-di-Carid‡ RC 89020
+San-Pietro-di-Carid√† RC 89020
 San-Pietro-di-Feletto TV 31020
 San-Pietro-di-Morubio VR 37050
 San-Pietro-in-Amantea CS 87030
@@ -6454,7 +6453,7 @@ San-Zenone-degli-Ezzelini TV 31020
 Sanarica LE 73030
 Sandigliano BI 13876
 Sandrigo VI 36066
-SanfrË CN 12040
+Sanfr√® CN 12040
 Sanfront CN 12030
 Sangano TO 10090
 Sangiano VA 21038
@@ -6505,9 +6504,9 @@ Santa-Maria-del-Molise IS 86096
 Santa-Maria-della-Versa PV 27047
 Santa-Maria-di-Licodia CT 95038
 Santa-Maria-di-Sala VE 30036
-Santa-Maria-HoË LC 23889
+Santa-Maria-Ho√® LC 23889
 Santa-Maria-Imbaro CH 66030
-Santa-Maria-la-Carit‡ NA 80050
+Santa-Maria-la-Carit√† NA 80050
 Santa-Maria-La-Fossa CE 81050
 Santa-Maria-La-Longa UD 33050
 Santa-Maria-Maggiore VB 28857
@@ -6598,7 +6597,7 @@ Sant'Eufemia-a-Maiella PE 65020
 Sant'Eufemia-d'Aspromonte RC 89027
 Sant'Eusanio-del-Sangro CH 66037
 Sant'Eusanio-Forconese AQ 67020
-Santhi‡ VC 13048
+Santhi√† VC 13048
 Santi-Cosma-e-Damiano LT 04020
 Sant'Ilario-dello-Ionio RC 89040
 Sant'Ilario-d'Enza RE 42049
@@ -6742,13 +6741,13 @@ Scopello VC 13028
 Scoppito AQ 67019
 Scordia CT 95048
 Scorrano LE 73020
-ScorzË VE 30037
+Scorz√® VE 30037
 Scurcola-Marsicana AQ 67068
 Scurelle TN 38050
 Scurzolengo AT 14030
 Seborga IM 18012
 Secinaro AQ 67029
-SeclÏ LE 73050
+Secl√¨ LE 73050
 Secugnago LO 26826
 Sedegliano UD 33039
 Sedico BL 32036
@@ -6794,7 +6793,7 @@ Senna-Comasco CO 22070
 Senna-Lodigiana LO 26856
 Sennariolo OR 09078
 Sennori SS 07036
-SenorbÏ CA 09040
+Senorb√¨ CA 09040
 Sepino CB 86017
 Seppiana VB 28843
 Sequals PN 33090
@@ -6815,7 +6814,7 @@ Serole AT 14050
 Serra-d'Aiello CS 87030
 Serra-de'-Conti AN 60030
 Serra-Pedace CS 87050
-Serra-RiccÚ GE 16010
+Serra-Ricc√≤ GE 16010
 Serra-San-Bruno VV 89822
 Serra-San-Quirico AN 60048
 Serra-Sant'Abbondio PU 61040
@@ -6930,7 +6929,7 @@ Smarano TN 38010
 Smerillo FM 63856
 Soave VR 37038
 Socchieve UD 33020
-SoddÏ OR 09080
+Sodd√¨ OR 09080
 Sogliano-al-Rubicone FC 47030
 Sogliano-Cavour LE 73010
 Soglio AT 14020
@@ -6984,7 +6983,7 @@ Sorbolo PR 43058
 Sordevolo BI 13817
 Sordio LO 26858
 Soresina CR 26015
-Sorg‡ VR 37060
+Sorg√† VR 37060
 Sorgono NU 08038
 Sori GE 16030
 Sorianello VV 89831
@@ -7058,7 +7057,7 @@ Squinzano LE 73018
 Staffolo AN 60039
 Stagno-Lombardo CR 26049
 Staiti RC 89030
-StalettÏ CZ 88069
+Stalett√¨ CZ 88069
 Stanghella PD 35048
 Staranzano GO 34079
 Statte TA 74010
@@ -7187,7 +7186,7 @@ Telti OT 07020
 Telve TN 38050
 Telve-di-Sopra TN 38050
 Tempio-Pausania OT 07029
-Tem˘ BS 25050
+Tem√π BS 25050
 Tenna TN 38050
 Tenno TN 38060
 Teolo PD 35037
@@ -7301,7 +7300,7 @@ Tornimparte AQ 67049
 Torno CO 22020
 Tornolo PR 43059
 Toro CB 86018
-TorpË NU 08020
+Torp√® NU 08020
 Torraca SA 84030
 Torralba SS 07048
 Torrazza-Coste PV 27050
@@ -7325,7 +7324,7 @@ Torre-di-Ruggiero CZ 88060
 Torre-di-Santa-Maria SO 23020
 Torre-d'Isola PV 27020
 Torre-Le-Nocelle AV 83030
-Torre-MondovÏ CN 12080
+Torre-Mondov√¨ CN 12080
 Torre-Orsaia SA 84077
 Torre-Pallavicina BG 24050
 Torre-Pellice TO 10066
@@ -7360,7 +7359,7 @@ Torrile PR 43056
 Torrioni AV 83010
 Torrita-di-Siena SI 53049
 Torrita-Tiberina RM 00060
-TortolÏ OG 08048
+Tortol√¨ OG 08048
 Tortona AL 15057
 Tortora CS 87020
 Tortorella SA 84030
@@ -7391,7 +7390,7 @@ Trasaghis UD 33010
 Trasquera VB 28868
 Tratalias CI 09010
 Trausella TO 10080
-TravacÚ-Siccomario PV 27020
+Travac√≤-Siccomario PV 27020
 Travagliato BS 25039
 Travedona-Monate VA 21028
 Traversella TO 10080
@@ -7460,8 +7459,8 @@ Triei OG 08040
 Trieste TS 341xx
 Triggiano BA 70019
 Trigolo CR 26018
-Trinit‡ CN 12049
-Trinit‡-d'Agultu-e-Vignola OT 07038
+Trinit√† CN 12049
+Trinit√†-d'Agultu-e-Vignola OT 07038
 Trinitapoli BT 76015
 Trino VC 13039
 Triora IM 18010
@@ -7514,7 +7513,7 @@ Udine UD 33100
 Ugento LE 73059
 Uggiano-La-Chiesa LE 73020
 Uggiate-Trevano CO 22029
-Ul‡-Tirso OR 09080
+Ul√†-Tirso OR 09080
 Ulassai OG 08040
 Ultimo BZ 39016
 Umbertide PG 06019
@@ -7758,7 +7757,7 @@ Veroli FR 03029
 Verona VR 371xx
 Veronella VR 37040
 Verrayes AO 11020
-VerrËs AO 11029
+Verr√®s AO 11029
 Verretto PV 27053
 Verrone BI 13871
 Verrua-Po PV 27040
@@ -7768,7 +7767,7 @@ Vertova BG 24029
 Verucchio RN 47826
 Veruno NO 28010
 Vervio SO 23030
-VervÚ TN 38010
+Verv√≤ TN 38010
 Verzegnis UD 33020
 Verzino KR 88819
 Verzuolo CN 12039
@@ -7778,7 +7777,7 @@ Vesime AT 14059
 Vespolate NO 28079
 Vessalico IM 18026
 Vestenanova VR 37030
-VestignË TO 10030
+Vestign√® TO 10030
 Vestone BS 25078
 Vestreno LC 23822
 Vetralla VT 01019
@@ -7793,7 +7792,7 @@ Viadana MN 46019
 Viadanica BG 24060
 Viagrande CT 95029
 Viale AT 14010
-VialfrË TO 10090
+Vialfr√® TO 10090
 Viano RE 42030
 Viareggio LU 55049
 Viarigi AT 14030
@@ -7820,14 +7819,14 @@ Vieste FG 71019
 Vietri-di-Potenza PZ 85058
 Vietri-sul-Mare SA 84019
 Viganella VB 28841
-ViganÚ LC 23897
+Vigan√≤ LC 23897
 Vigano-San-Martino BG 24060
 Vigarano-Mainarda FE 44049
 Vigasio VR 37068
 Vigevano PV 27029
 Viggianello PZ 85040
 Viggiano PZ 85059
-Viggi˘ VA 21059
+Viggi√π VA 21059
 Vighizzolo-d'Este PD 35040
 Vigliano-Biellese BI 13856
 Vigliano-d'Asti AT 14040
@@ -7860,7 +7859,7 @@ Villa-Celiera PE 65010
 Villa-Collemandina LU 55030
 Villa-Cortese MI 20020
 Villa-d'Adda BG 24030
-Villa-d'AlmË BG 24018
+Villa-d'Alm√® BG 24018
 Villa-del-Bosco BI 13868
 Villa-del-Conte PD 35010
 Villa-di-Briano CE 81030
@@ -7929,7 +7928,7 @@ Villanova-del-Ghebbo RO 45020
 Villanova-del-Sillaro LO 26818
 Villanova-di-Camposampiero PD 35010
 Villanova-Marchesana RO 45030
-Villanova-MondovÏ CN 12089
+Villanova-Mondov√¨ CN 12089
 Villanova-Monferrato AL 15030
 Villanova-Monteleone SS 07019
 Villanova-Solaro CN 12030
@@ -8004,7 +8003,7 @@ Vittorito AQ 67030
 Vittuone MI 20010
 Vitulano BN 82038
 Vitulazio CE 81041
-Vi˘ TO 10070
+Vi√π TO 10070
 Vivaro PN 33099
 Vivaro-Romano RM 00020
 Viverone BI 13886
@@ -8044,7 +8043,7 @@ Zagarolo RM 00039
 Zambana TN 38010
 Zambrone VV 89868
 Zandobbio BG 24060
-ZanË VI 36010
+Zan√® VI 36010
 Zanica BG 24050
 Zapponeta FG 71030
 Zavattarello PV 27059
@@ -8058,7 +8057,7 @@ Zenevredo PV 27049
 Zenson-di-Piave TV 31050
 Zerba PC 29020
 Zerbo PV 27017
-ZerbolÚ PV 27020
+Zerbol√≤ PV 27020
 Zerfaliu OR 09070
 Zeri MS 54029
 Zermeghedo VI 36050
@@ -8079,7 +8078,7 @@ Zola-Predosa BO 40069
 Zoldo-Alto BL 32010
 Zollino LE 73010
 Zone BS 25050
-ZoppË-di-Cadore BL 32010
+Zopp√®-di-Cadore BL 32010
 Zoppola PN 33080
 Zovencedo VI 36020
 Zubiena BI 13888
